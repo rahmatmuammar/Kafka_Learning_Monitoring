@@ -1,0 +1,71 @@
+{
+  "info": {
+    "OFFICIAL": null,
+    "PROJECT": "PROJECT 2",
+    "TIPE_PERANGKAT": "GATE",
+    "ID_PERANGKAT": "IDNYA",
+    "CODE_STATION": "Code Stasiunnya",
+    "NAME_STATION": "Nama Stasiunnya",
+    "IS_IN": "true"
+  },
+  "connection": {
+    "DB_CONNECTION_STATUS": "1",
+    "ONLINE_PAYMENT_CONNECTION_STATUS": "1"
+  },
+  "QR_class": {
+    "SERIAL_NUMBER": "Serialnumber1",
+    "PORT": "COMPORq",
+    "STATUS": 1,
+    "STATUS_DETAIL": "Ga Apa-apah"
+  },
+  "Reader_class": {
+    "SERIAL_NUMBER": "Serialnumber",
+    "PORT": "COMPORs",
+    "STATUS": 1,
+    "STATUS_DETAIL": "Ga Apa-apa"
+  },
+  "sam_reader": [
+    {
+      "ISSUER_SAM": 7,
+      "ISSUER_NAME": "SAM MEGA",
+      "ISSUER_STATUS": 7,
+      "ISSUER_STATUS_DETAIL": "OK SAM MEGA"
+    },
+    {
+      "ISSUER_SAM": 6,
+      "ISSUER_NAME": "SAM BNI",
+      "ISSUER_STATUS": 6,
+      "ISSUER_STATUS_DETAIL": "OK SAM BNI"
+    },
+    {
+      "ISSUER_SAM": 3,
+      "ISSUER_NAME": "SAM DKI",
+      "ISSUER_STATUS": 3,
+      "ISSUER_STATUS_DETAIL": "OK SAM DKI"
+    },
+    {
+      "ISSUER_SAM": 5,
+      "ISSUER_NAME": "SAM BCA",
+      "ISSUER_STATUS": 5,
+      "ISSUER_STATUS_DETAIL": "OK SAM BCA"
+    },
+    {
+      "ISSUER_SAM": 4,
+      "ISSUER_NAME": "SAM BRI",
+      "ISSUER_STATUS": 4,
+      "ISSUER_STATUS_DETAIL": "OK SAM BRI"
+    },
+    {
+      "ISSUER_SAM": 2,
+      "ISSUER_NAME": "SAM KMT",
+      "ISSUER_STATUS": 2,
+      "ISSUER_STATUS_DETAIL": "OK SAM KMT"
+    },
+    {
+      "ISSUER_SAM": 1,
+      "ISSUER_NAME": "SAM THB",
+      "ISSUER_STATUS": 1,
+      "ISSUER_STATUS_DETAIL": "OK SAM THB"
+    }
+  ]
+}
