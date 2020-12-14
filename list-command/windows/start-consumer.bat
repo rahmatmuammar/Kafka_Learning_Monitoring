@@ -1,0 +1,1 @@
+kafka-console-consumer.bat --topic tes-topic --bootstrap-server localhost:9092
